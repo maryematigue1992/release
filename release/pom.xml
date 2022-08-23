@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>preparation</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
@@ -12,6 +12,6 @@
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/maryematigue1992/release</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.6</tag>
     </scm>
 </project>
